@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Github](https://github.com/fwr882)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/fahim-rahman-12217275/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](https://www.linkedin.com/in/fahim-rahman-12217275/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAAA_dISoB6wOcn2eeIoXn2XheHV2D5Hrp19A%2C1517950638737))
